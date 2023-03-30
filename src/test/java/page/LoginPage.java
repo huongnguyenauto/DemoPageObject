@@ -19,8 +19,8 @@ public class LoginPage {
     public By TEST = By.xpath("//div[contains(@class,'user-action')]//a[contains(@class,'login-button btn td-btn login-trigger')][normalize-space()='Login']");
     public By TEST01 = By.xpath("//a[normalize-space()='View Details']");
 
-    public LoginPage(WebDriver driver){
-        this.driver = driver;
+    public LoginPage(){
+
     }
 
 
