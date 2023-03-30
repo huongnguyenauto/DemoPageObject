@@ -42,8 +42,8 @@ public class LoginPage {
         element.click();
     }
 
-    public String messageErro(){
-        String msg = WebKeyword.getWebElement(MESSAGE_ERRO).getText();
-        return msg;
-    }
+//    public String messageErro(){
+//        String msg = WebKeyword.getWebElement(MESSAGE_ERRO).getText();
+//        return msg;
+//    }
 }
