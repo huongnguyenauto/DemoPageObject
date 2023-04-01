@@ -1,0 +1,18 @@
+[INFO ] 31-03-2023 15:36:08 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 31-03-2023 15:36:08 [main] Log - Set text success By.id: password 
+[INFO ] 31-03-2023 15:36:10 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[INFO ] 31-03-2023 15:56:34 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 31-03-2023 15:56:34 [main] Log - Set text success By.id: password 
+[INFO ] 31-03-2023 15:56:36 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[INFO ] 31-03-2023 15:58:02 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 31-03-2023 15:58:02 [main] Log - Set text success By.id: password 
+[INFO ] 31-03-2023 15:58:04 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[INFO ] 31-03-2023 15:58:37 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 31-03-2023 15:58:37 [main] Log - Set text success By.id: password 
+[INFO ] 31-03-2023 15:58:38 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[INFO ] 31-03-2023 16:00:35 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 31-03-2023 16:00:36 [main] Log - Set text success By.id: password 
+[INFO ] 31-03-2023 16:00:37 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[INFO ] 31-03-2023 16:01:11 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 31-03-2023 16:01:11 [main] Log - Set text success By.id: password 
+[INFO ] 31-03-2023 16:01:11 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
