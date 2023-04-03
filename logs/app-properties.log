@@ -16,3 +16,38 @@
 [INFO ] 31-03-2023 16:01:11 [main] Log - Set text success By.xpath: //input[@id='email'] 
 [INFO ] 31-03-2023 16:01:11 [main] Log - Set text success By.id: password 
 [INFO ] 31-03-2023 16:01:11 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[INFO ] 03-04-2023 21:05:57 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 03-04-2023 21:05:57 [main] Log - Set text success By.id: password 
+[INFO ] 03-04-2023 21:05:58 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[INFO ] 03-04-2023 21:06:44 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 03-04-2023 21:06:44 [main] Log - Set text success By.id: password 
+[INFO ] 03-04-2023 21:06:48 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[INFO ] 03-04-2023 22:04:47 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 03-04-2023 22:04:47 [main] Log - Set text success By.id: password 
+[INFO ] 03-04-2023 22:04:49 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[INFO ] 03-04-2023 22:05:23 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 03-04-2023 22:05:23 [main] Log - Set text success By.id: password 
+[INFO ] 03-04-2023 22:05:23 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[INFO ] 03-04-2023 22:17:31 [main] Log - Start testing FirstTest
+[INFO ] 03-04-2023 22:17:34 [main] Log - loginCMR test is starting...
+[INFO ] 03-04-2023 22:18:08 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 03-04-2023 22:18:08 [main] Log - Set text success By.id: password 
+[INFO ] 03-04-2023 22:18:10 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[INFO ] 03-04-2023 22:18:10 [main] Log - loginCMR test is passed.
+[INFO ] 03-04-2023 22:18:12 [main] Log - loginCMRInvalidPass test is starting...
+[INFO ] 03-04-2023 22:18:43 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 03-04-2023 22:18:43 [main] Log - Set text success By.id: password 
+[INFO ] 03-04-2023 22:18:44 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[ERROR] 03-04-2023 22:18:44 [main] Log - loginCMRInvalidPass test is failed.
+[INFO ] 03-04-2023 22:44:10 [main] Log - Start testing FirstTest
+[INFO ] 03-04-2023 22:44:12 [main] Log - loginCMR test is starting...
+[INFO ] 03-04-2023 22:44:47 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 03-04-2023 22:44:47 [main] Log - Set text success By.id: password 
+[INFO ] 03-04-2023 22:44:50 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[INFO ] 03-04-2023 22:44:50 [main] Log - loginCMR test is passed.
+[INFO ] 03-04-2023 22:44:52 [main] Log - loginCMRInvalidPass test is starting...
+[INFO ] 03-04-2023 22:45:23 [main] Log - Set text success By.xpath: //input[@id='email'] 
+[INFO ] 03-04-2023 22:45:23 [main] Log - Set text success By.id: password 
+[INFO ] 03-04-2023 22:45:24 [main] Log - CLick success By.xpath: //button[normalize-space()='Login'] 
+[ERROR] 03-04-2023 22:45:24 [main] Log - loginCMRInvalidPass test is failed.
+[INFO ] 03-04-2023 22:45:25 [main] Log - End testing FirstTest

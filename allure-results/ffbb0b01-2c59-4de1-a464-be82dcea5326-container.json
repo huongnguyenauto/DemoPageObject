@@ -1,1 +1,0 @@
-{"uuid":"ffbb0b01-2c59-4de1-a464-be82dcea5326","name":"test.LoginTest.initPro","children":["1add84cb-c921-4d06-bf71-54668e395663"],"description":"","befores":[{"name":"initPro","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1680247599192,"stop":1680247599199}],"afters":[],"start":1680247599191,"stop":1680247599199}
