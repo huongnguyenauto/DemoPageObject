@@ -1,6 +1,7 @@
 package test;
 
 import common.BaseTest;
+import listeners.ReportListener;
 import listeners.TestListener;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
@@ -16,7 +17,7 @@ import page.LoginPage;
 import java.io.File;
 import java.io.IOException;
 
-@Listeners(TestListener.class)
+@Listeners(ReportListener.class)
 public class LoginTest extends BaseTest {
 
     public LoginPage loginPage;
